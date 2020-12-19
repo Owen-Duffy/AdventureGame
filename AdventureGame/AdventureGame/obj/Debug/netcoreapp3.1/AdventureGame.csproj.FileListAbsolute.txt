@@ -1,0 +1,13 @@
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.exe
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.deps.json
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.json
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.dev.json
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.dll
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.pdb
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csprojAssemblyReference.cache
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfoInputs.cache
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfo.cs
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csproj.CoreCompileInputs.cache
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.dll
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.pdb
+D:\School\ITP\VS projects\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.genruntimeconfig.cache
